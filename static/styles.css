@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+header {
+    background-color: #002147; /* Azul escuro */
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-item {
+    background-color: #f0f0f0; /* Cinza claro */
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px; /* Bordas arredondadas */
+}
+
